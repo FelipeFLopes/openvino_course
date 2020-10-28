@@ -1,6 +1,6 @@
 # Openvino Course
 
-Openvino course lectured at UFRN/Natal on summer 2020
+Openvino course lectured at UFRN/Natal on summer 2020 - A tarde
 
 ## Prerequisites
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
