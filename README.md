@@ -6,9 +6,9 @@ Openvino course lectured at UFRN/Natal on summer 2020
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Pip - [Or prefered python package manager](https://pip.pypa.io/en/stable/installing/).
 * Python 3.6+ - [Recomended Instalation through pyenv](https://www.python.org/).
+* OpenVino 2021.1 - [Latest version at time of writing](https://docs.openvinotoolkit.org/2021.1/openvino_docs_get_started_get_started_linux.html).
 
 # Example usage
-
 
 ## Model optimizer
 
